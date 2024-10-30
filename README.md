@@ -8,23 +8,23 @@ I’m Camil an EPITA last year student, and I’ve got a habit of diving into pr
 
 ## 🚀 Projects
 
-### 🧠 **[EEG MNIST MindBigData](http://google.com)**
+### 🧠 **[EEG MNIST MindBigData](https://github.com/camilziane/eeg-mnist)**
 Currently building ...
 - **Description**:  Developing a model to predict handwritten digit classifications from EEG signals, effectively combining neural data with classic MNIST image recognition for an innovative approach to mind-to-number interpretation.
 - **Technologies**: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
 
-### 🌟 **[Echo: Memory Support Platform for Alzheimer's]()**
+### 🌟 **[Echo: Memory Support Platform for Alzheimer's](https://github.com/camilziane/HACKATON-MISTRAL-ALAN-ECHO)**
 - **Description**: Echo helps support loved ones with Alzheimer's by creating a shared album. Family members can post souvenirs,  pictures, and comments. Echo features an AI-powered chatbot for retrieving past posts and personalized memory quizzes using 👤🔍 (face recognition) and 🎲 Thompson sampling, ensuring an adaptive quiz experience.
 
 - **How We Built It**: Built with React (frontend) and FastAPI (backend). The app has three main interfaces for data handling, chatbot interactions, and quiz generation using Thompson sampling to balance exploration and exploitation for better memory retention.
 - **Technologies**: ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?logoColor=white)
 
-### 🔒 **[ZAuth: Privacy-Preserving Biometric Authentication]()**
+### 🔒 **[ZAuth: Privacy-Preserving Biometric Authentication](https://github.com/chuklee/HACKATHON-ZAMA-FHE-ENCRYPTION)**
 
 - **Description**: Created a decentralized authentication system using **Fully Homomorphic Encryption (FHE)** to secure biometric data, ensuring data remains encrypted end-to-end.
 - **Technologies**: ![Zama](https://img.shields.io/badge/-Zama-000000?&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white)
 
-### 🤔 **[Model Dilution (Top 3 in Mistral AI Hackathon)]()**
+### 🤔 **[Model Dilution (Top 3 in Mistral AI Hackathon)](https://github.com/chuklee/HACKATHON_MISTRAL)**
 
 - **Description**: Developed a platform for converting large pre-trained models into efficient, task-specific smaller models using prompt engineering and direct optimization.
 - **Technologies**: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white)
